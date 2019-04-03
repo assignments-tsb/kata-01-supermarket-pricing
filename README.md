@@ -19,3 +19,6 @@ This is an ideal shower-time kata, but be careful. Some of the problems are more
 
 #### Goal
 The goal of this kata is to practice a looser style of experimental modelling. Look for as many different ways of handling the issues as possible. Consider the various tradeoffs of each. What techniques are best for exploring these models? For recording them? How can you validate a model is reasonable?
+
+#### Reference:
+http://codekata.com/kata/kata01-supermarket-pricing/
